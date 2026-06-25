@@ -1,5 +1,5 @@
-@font-face {font-family: shabnam;src: url(/fonts/Shabnam-Light-FD.ttf) format("truetype");}
-@font-face {font-family: hoda;src: url(/fonts/HodaTorabikhah.ttf) format("truetype");}
+@font-face {font-family: shabnam;src: url(fonts/Shabnam-Light-FD.ttf) format("truetype");}
+@font-face {font-family: hoda;src: url(fonts/HodaTorabikhah.ttf) format("truetype");}
 :root{
     --hoda:hoda;
     --shabnam:shabnam
